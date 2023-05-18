@@ -98,17 +98,27 @@ experiences:
           - Implemented tests in CI tools AWS CodeBuild and GitHub Actions, enabling seamless integration and automated testing in the development process.
 
           - In addition, I authored BDD documentation to enhance collaboration and communication between development and testing teams.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+        Throughout these experiences, I honed my problem-solving, analytical thinking, and effective communication skills, contributing to successful project outcomes.
+    - role: Software Engineer in Test / QA Engineer
+      time: Mar 2018 - Jun 2022
+      company: VTEX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As a leader of stress tests on an e-commerce platform, my role was crucial in ensuring its full functionality during periods of high demand. I spearheaded various routines including code reviews, implementing functionalities with unit tests, pair programming, and more. This period allowed me to deepen my knowledge of new technologies such as Typescript, Node.js, Docker, and Kubernetes.
+
+        As part of the squad, I took responsibility for implementing a culture of testing and optimizing processes within the agile methodology. Key contributions included:
+
+          - Creation of test environments and defining a comprehensive testing strategy.
+          - Implementation of automated testing scenarios for both API and UI.
+          - Integration of tests within the CI/CD pipeline, leveraging continuous integration practices.
+          - Developing unit tests in the .NET language and integration tests using Postman/Newman.
+          - Leveraging Cypress for UI testing and utilizing AWS services to enhance test infrastructure.
+
+        Through these efforts, I ensured high-quality code and reliable product functionality. I collaborated closely with the development team to prioritize testing needs, identify potential issues, and implement effective solutions. By promoting a robust testing culture, I significantly improved the overall product quality and the team's efficiency.
+
+        Additionally, I actively participated in knowledge-sharing sessions, mentoring teammates on testing best practices and advocating for the importance of quality assurance throughout the development process.
+
+        Overall, my leadership in stress testing, implementation of automated testing, and establishment of efficient processes played a vital role in achieving high-quality deliverables within the agile environment.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
