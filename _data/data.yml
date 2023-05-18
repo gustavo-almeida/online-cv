@@ -103,17 +103,27 @@ experiences:
         - Wrote unit tests in .NET and integration tests using Postman/Newman.
         - Conducted UI testing with Cypress and utilized AWS services.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Product Owner / QA Engineer
+      time: Feb 2016 - Mar 2018
+      company: deviceLab
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In this role, I successfully combined my managerial skills with technical expertise, contributing to efficient product management and the implementation of best practices in mobile software testing.
+        - Worked in both managerial and technical areas, focusing on product management, consulting, training, and best practices in mobile software testing.
+        - Served as a Product Owner, applying the agile SCRUM methodology.
+        - Automated mobile tests using Blink, Ruby/Cucumber, and Python/Behave, following BDD and ATDD principles.
+        - Created and executed Rest API and performance tests using Postman and JMeter.
+        - Proficient in mobile testing frameworks like Appium and Calabash.
+
+    - role: Test Analyst
+      time: Aug 2013 - Oct 2015
+      company: VTEX
+      details: |
+        Throughout this position, I successfully automated tests across diverse browsers, optimizing the efficiency and effectiveness of Acceptance and Regression testing. By utilizing C#, SpecFlow, Selenium, and various frameworks and techniques such as NUnit, SpecRun, Page Objects, and Parallel Tests, I contributed to delivering reliable and high-quality automated tests.
+        - Automated tests across multiple browsers, streamlining the process of Acceptance and Regression testing.
+        - Leveraged C# and SpecFlow for Behavior-Driven Development (BDD) implementation.
+        - Utilized Selenium for efficient browser interaction.
+        - Employed additional frameworks and techniques, including NUnit, SpecRun, Page Objects, and Parallel Tests.
+
 # projects:
 #   title: Projects
 #   intro: >
