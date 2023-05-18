@@ -104,21 +104,14 @@ experiences:
       time: Mar 2018 - Jun 2022
       company: VTEX
       details: |
-        As a leader of stress tests on an e-commerce platform, my role was crucial in ensuring its full functionality during periods of high demand. I spearheaded various routines including code reviews, implementing functionalities with unit tests, pair programming, and more. This period allowed me to deepen my knowledge of new technologies such as Typescript, Node.js, Docker, and Kubernetes.
+        By prioritizing testing needs and promoting a robust testing culture, I improved code quality, product functionality, and team efficiency. I mentored teammates on testing best practices and facilitated knowledge sharing sessions, and also:
+        - Led load tests on an e-commerce platform, ensuring smooth operation during high-demand periods.
+        - Implemented testing culture and processes within the team, following agile methodology.
+        - Created test environments and defined comprehensive testing strategies.
+        - Developed automated testing scenarios for API and UI integrating into the CI/CD pipeline for fast regression testing.
+        - Wrote unit tests in .NET and integration tests using Postman/Newman.
+        - Conducted UI testing with Cypress and utilized AWS services.
 
-        As part of the squad, I took responsibility for implementing a culture of testing and optimizing processes within the agile methodology. Key contributions included:
-
-          - Creation of test environments and defining a comprehensive testing strategy.
-          - Implementation of automated testing scenarios for both API and UI.
-          - Integration of tests within the CI/CD pipeline, leveraging continuous integration practices.
-          - Developing unit tests in the .NET language and integration tests using Postman/Newman.
-          - Leveraging Cypress for UI testing and utilizing AWS services to enhance test infrastructure.
-
-        Through these efforts, I ensured high-quality code and reliable product functionality. I collaborated closely with the development team to prioritize testing needs, identify potential issues, and implement effective solutions. By promoting a robust testing culture, I significantly improved the overall product quality and the team's efficiency.
-
-        Additionally, I actively participated in knowledge-sharing sessions, mentoring teammates on testing best practices and advocating for the importance of quality assurance throughout the development process.
-
-        Overall, my leadership in stress testing, implementation of automated testing, and establishment of efficient processes played a vital role in achieving high-quality deliverables within the agile environment.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -221,7 +214,7 @@ skills:
       level: 86%
 
     - name: API Testing
-      level: 80%
+      level: 90%
 
     - name: Regression Testing
       level: 95%
