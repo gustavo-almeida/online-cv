@@ -14,7 +14,7 @@ sidebar:
   # Sidebar links
   email: gustavo.almeida@live.com
   phone: +55 (21) 98861-6748
-  timezone: America/BRT Timezone
+  timezone: #America/BRT Timezone
   citizenship:
   website:
   linkedin: gustavodealmeida
@@ -44,21 +44,13 @@ sidebar:
       - item: Coffee
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Games
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Highly experienced professional with over 10 years of expertise in Software Testing and Quality Assurance. Holds a degree in Information Systems and an MBA in Big Data and Business Analytics from FGV. Skilled in planning, developing, and executing automated tests across software layers using various programming languages and tools. Proficient in leadership roles such as Test Leader and Product Owner. Actively seeks continuous improvement in agile and dynamic environments through specialized training. Committed to delivering high-quality results and adaptable to new technologies and methodologies. Passionate about advancing software testing and quality assurance practices.
 education:
   title: Education
   info:
