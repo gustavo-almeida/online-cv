@@ -1,0 +1,239 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Gustavo Almeida
+  tagline: QA Engineer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: gustavo.almeida@live.com
+  phone: +55 (21) 98861-6748
+  timezone: #America/BRT Timezone
+  citizenship:
+  website:
+  linkedin: gustavodealmeida
+  xing:
+  github: gustavo-almeida
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/en-cv_gustavo.pdf
+
+  languages:
+    title: Idiomas
+    info:
+      - idiom: Portuguese
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+  interests:
+    title: Certifications
+    info:
+      - item: AWS Certified Cloud Practitioner
+        link: https://www.credly.com/badges/03b09c74-bc25-45a0-aaf5-9af863a0c492/linked_in_profile
+
+      - item: Secure Coding - Cybrary
+        link: https://app.cybrary.it/courses/api/certificate/CC-af30f3d5-74c5-4fb7-be69-eacb1b9d7160
+
+      - item: Data Science Fundamentals Nanodegree - Udacity
+        link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I'm an experienced professional with over 10 years of expertise in Software Testing and Quality Assurance. I hold a degree in Information Systems and an MBA in Big Data and Business Analytics.
+
+    Throughout my career, I've developed strong skills in planning, developing, and executing manual and automated tests across all layers of software using various programming languages and tools. Additionally, I have experience in conducting non-functional tests such as load tests.
+education:
+  title: Education
+  info:
+    - degree: MBA in Business Analytics and Big Data
+      university: Fundação Getúlio Vargas
+      time: 2018 - 2020
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Information Systems
+      university: Universidade Estácio de Sá
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+experiences:
+  title: Experiences
+  info:
+    - role: QA Engineer
+      time: Jun 2022 - Apr 2023
+      company: CI&T
+      details: |
+        I led the software test lifecycle strategy of a financial application in the fund of funds market for one of Brazil's largest banks. As a consultant, I provided expertise in testing practices and successfully developed an automated test framework. By collaborating closely with the UX team, we enhanced application flows, ensuring a seamless user experience.
+          - Refactored an entire end-to-end test project using Cypress and Javascript. Successfully automated test cases, resulting in improved efficiency and reduced time for regression testing.
+          - Maintained and improved an end-to-end test project with Selenium, .NET Core, and SpecFlow. Streamlined test scenarios and contributed to the continuous improvement of test coverage.
+          - Implemented tests in CI tools AWS CodeBuild and GitHub Actions, enabling seamless integration and automated testing in the development process.
+          - In addition, I authored BDD documentation to enhance collaboration and communication between development and testing teams.
+
+    - role: Software Engineer in Test / QA Engineer
+      time: Mar 2018 - Jun 2022
+      company: VTEX
+      details: |
+        By prioritizing testing needs and promoting a robust testing culture, I improved code quality, product functionality, and team efficiency. I mentored teammates on testing best practices and facilitated knowledge-sharing sessions, and also:
+        - Led load tests on an e-commerce platform, ensuring smooth operation during high-demand periods.
+        - Implemented testing culture and processes within the team, following agile methodology.
+        - Created test environments and defined comprehensive testing strategies.
+        - Developed automated testing scenarios for API and UI integrating into the CI/CD pipeline for fast regression testing.
+        - Wrote unit tests in .NET and integration tests using Postman/Newman.
+        - Conducted UI testing with Cypress and utilized AWS services.
+
+    - role: Product Owner / QA Engineer
+      time: Feb 2016 - Mar 2018
+      company: deviceLab
+      details: |
+        In this role, I successfully combined my managerial skills with technical expertise, contributing to efficient product management and the implementation of best practices in mobile software testing.
+        - Worked in both managerial and technical areas, focusing on product management, consulting, training, and best practices in mobile software testing.
+        - Served as a Product Owner, applying the agile SCRUM methodology.
+        - Automated mobile tests using Blink, Ruby/Cucumber, and Python/Behave, following BDD and ATDD principles.
+        - Created and executed Rest API and performance tests using Postman and JMeter.
+        - Proficient in mobile testing frameworks like Appium and Calabash.
+
+    - role: Test Analyst
+      time: Aug 2013 - Oct 2015
+      company: VTEX
+      details: |
+        Throughout this position, I successfully automated tests across diverse browsers, optimizing the efficiency and effectiveness of Acceptance and Regression testing. By utilizing C#, SpecFlow, Selenium, and various frameworks and techniques such as NUnit, SpecRun, Page Objects, and Parallel Tests, I contributed to delivering reliable and high-quality automated tests.
+        - Automated tests across multiple browsers, streamlining the process of Acceptance and Regression testing.
+        - Leveraged C# and SpecFlow for Behavior-Driven Development (BDD) implementation.
+        - Utilized Selenium for efficient browser interaction.
+        - Employed additional frameworks and techniques, including NUnit, SpecRun, Page Objects, and Parallel Tests.
+
+# projects:
+#   title: Projects
+#   intro: >
+#     You can list your side projects in this
+#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   assignments:
+#     - title: Velocity
+#       link: "#hook"
+#       tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#     - title: DevStudio
+#       link: "#"
+#       tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#     - title: Tempo
+#       link: "#"
+#       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#     - title: Atom
+#       link: "#"
+#       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#     - title: Delta
+#       link: "#"
+#       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this
+#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#     - title: Tempo
+#       link: "#"
+#       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#     - title: Atom
+#       link: "#"
+#       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#     - title: Delta
+#       link: "#"
+#       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: The Art of Computer Programming
+#       link: "#"
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
+
+#     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#       link: "#"
+#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#     - title: A syntax directed compiler for Algol 60
+#       link: "#"
+#       authors: Edgar T. Irons
+#       conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Test Planning
+      level: 98%
+
+    - name: Manual Testing
+      level: 98%
+
+    - name: Quality Assurance
+      level: 98%
+
+    - name: Test Automation
+      level: 95%
+
+    - name: Cucumber
+      level: 85%
+
+    - name: Cypress
+      level: 86%
+
+    - name: API Testing
+      level: 90%
+
+    - name: Regression Testing
+      level: 95%
+
+    - name: Typescript
+      level: 60%
+
+    - name: .NET
+      level: 70%
+
+    - name: SQL
+      level: 65%
+
+    - name: BDD
+      level: 85%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
