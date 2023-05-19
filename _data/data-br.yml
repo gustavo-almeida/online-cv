@@ -7,19 +7,19 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Gustavo Almeida
-  tagline: QA Engineer
+  name: Taís Vianna
+  tagline: Jornalista
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: gustavo.almeida@live.com
-  phone: +55 (21) 98861-6748
+  email: tais_vianna@hotmail.com
+  phone: (21)96733-0491
   timezone: #America/BRT Timezone
   citizenship:
   website:
-  linkedin: gustavodealmeida
+  linkedin: taisvianna
   xing:
-  github: gustavo-almeida
+  github: #gustavo-almeida
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -27,7 +27,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/pt-cv_gustavo.pdf
+  pdf: #https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/pt-cv_gustavo.pdf
 
   languages:
     title: Idiomas
@@ -53,9 +53,11 @@ sidebar:
 career-profile:
   title: Resumo
   summary: |
-    Sou um profissional com mais de 10 anos de experiência em Teste de Software e Garantia de Qualidade. Sou formado em Sistemas de Informação e tenho um MBA em Big Data e Business Analytics.
+    Sou graduada em Jornalismo pela UFRJ e tenho especializações (MBAs) em Marketing pela FGV e Gestão de Pessoas pela USP-Esalq.
 
-    Ao longo da minha carreira, desenvolvi fortes habilidades em planejamento, desenvolvimento e execução de testes manuais e automatizados em todas as camadas de software usando várias linguagens e ferramentas de programação. Além disso, tenho experiência na condução de testes não funcionais, como testes de carga.
+    Meu principal campo de atuação é a Comunicação, com experiência nas áreas de Trade, Marketing, Engajamento, Treinamento, Eventos, B2B e mais.
+
+    Sou organizada, proativa e gosto de trabalhar em parceria. Poder trocar conhecimento, ajudar sempre que puder e ter um ótimo relacionamento com as pessoas são atributos importantes para mim.
 education:
   title: Formação
   info:
@@ -84,114 +86,108 @@ education:
 experiences:
   title: Experiência
   info:
-    - role: QA Engineer
+    - role: Marketing
       time: Jun 2022 - Apr 2023
-      company: CI&T
+      company: Loft
       details: |
-        Liderei a estratégia de ciclo de vida de teste de software de uma aplicação financeira no mercado de fundos de um dos maiores bancos do Brasil. Como consultor, forneci experiência em práticas de teste e desenvolvi com sucesso uma estrutura de teste automatizada. Ao colaborar estreitamente com a equipe de UX, aprimoramos os fluxos da aplicação, garantindo uma experiência de usuário perfeita.
-        - Refatorei todo um projeto de teste end-to-end usando Cypress e Javascript. Os testes foram automatizados com sucesso, resultando em maior eficiência e tempo reduzido nos testes de regressão.
-        - Fiz manutenção e melhoria de um projeto de teste end-to-end com Selenium, .NET Core e SpecFlow. Simplificando cenários de teste o que contribuiu para a melhoria contínua e cobertura de teste do projeto.
-        - Testes adicionados nas ferramentas de CI AWS CodeBuild e GitHub Actions, permitindo integração perfeita e testes automatizados no processo de desenvolvimento.
-        - Além disso, criei documentações no formato BDD para aprimorar a colaboração e a comunicação entre as equipes de desenvolvimento e teste.
-    - role: Software Engineer in Test / QA Engineer
+        Describe your experience here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Consultora Sênior de Trade Marketing
       time: Mar 2018 - Jun 2022
-      company: VTEX
+      company: TIM Brasil
       details: |
-        Ao priorizar as necessidades de testes e promover uma cultura de testes robusta, melhorei a qualidade do código, a funcionalidade do produto e a eficiência da time. Orientei colegas de equipe sobre melhores práticas de testes e facilitei sessões de compartilhamento de conhecimento, e também:      
-        - Liderei os testes de carga em plataforma de e-commerce, garantindo bom funcionamento em períodos de alta demanda.
-        - Implementei cultura e processos de testes dentro da equipe, seguindo metodologia ágil.
-        - Criei ambientes de testes e defini estratégias de teste abrangentes.
-        - Desenvolvi cenários de teste automatizados para integração de API e UI no pipeline de CI/CD para testes de regressão rápidos.
-        - Escrevi testes de unidade em .NET e testes de integração usando Postman/Newman.
-        - Conduzi testes de UI com Cypress utilizando serviços da AWS.
+        Describe your experience here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 
-    - role: Product Owner / QA Engineer
+    - role: Estagiária de Jornalismo
       time: Feb 2016 - Mar 2018
-      company: deviceLab
+      company: CVM
       details: |
-        Nesse período, combinei com sucesso minhas habilidades gerenciais com conhecimento técnico, contribuindo para o gerenciamento eficiente de produtos e a implementação das melhores práticas em teste de software com ênfase em mobile.
-        - Atuei nas áreas gerencial e técnica, com foco em gestão de produtos, consultoria, treinamento e melhores práticas em teste de software mobile.
-        - Atuei como Product Owner, aplicando a metodologia ágil SCRUM.
-        - Testes mobile automatizados usando Blink, Ruby/Cucumber e Python/Behave, seguindo os princípios BDD e ATDD.
-        - Criei e executei testes em API Rest e testes de carga usando Postman e JMeter.
-        - Proficiente em frameworks de testes mobile como Appium e Calabash.
+        Describe your experience here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 
-    - role: Analista de Testes
-      time: Aug 2013 - Oct 2015
-      company: VTEX
-      details: |
-        Ao longo desta posição, automatizei com sucesso testes em diversos navegadores, otimizando a eficiência e a eficácia dos testes de aceitação e regressão. Utilizando C#, SpecFlow, Selenium e vários frameworks e técnicas como NUnit, SpecRun, Page Objects e Testes Paralelizados, contribuindo para fornecer testes automatizados confiáveis e de alta qualidade.
-        - Implementação de projeto de testes automatizados em vários navegadores web, simplificando o processo de testes de aceitação e regressão.
-        - Implementação de projeto em BDD usando C# e SpecFlow.
-        - Selenium utilizado para interação eficiente do navegador web.
-        - Utilizei com sucesso frameworks e outras técnicas, incluindo NUnit, SpecRun, Page Objects e Testes Paralelizados.
-# projects:
-#   title: Projetos
-#   intro: >
-#     You can list your side projects in this
-#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   assignments:
-#     - title: Velocity
-#       link: "#hook"
-#       tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+  title: Projetos
+  intro: >
+    You can list your side projects in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      link: "#hook"
+      tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-#     - title: DevStudio
-#       link: "#"
-#       tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: DevStudio
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
 
-#     - title: Tempo
-#       link: "#"
-#       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Tempo
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#     - title: Atom
-#       link: "#"
-#       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Atom
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#     - title: Delta
-#       link: "#"
-#       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# oss:
-#   title: OSS Contributions
-#   intro: >
-#     You can list your open source software contributions in this
-#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   contributions:
-#     - title: Tempo
-#       link: "#"
-#       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+oss:
+  title: Contribuições Open-Source
+  intro: >
+    You can list your open source software contributions in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+    - title: Tempo
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#     - title: Atom
-#       link: "#"
-#       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Atom
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#     - title: Delta
-#       link: "#"
-#       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#   title: Publicações
-#   intro: |
-#     You can list your publications in this section. Lorem ipsum dolor sit
-#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#     bibendum fringilla a eu lectus.
-#   papers:
-#     - title: The Art of Computer Programming
-#       link: "#"
-#       authors: Donald E. Knuth
-#       conference: Addison-Wesley, 1968
+publications:
+  title: Publicações
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  papers:
+    - title: The Art of Computer Programming
+      link: "#"
+      authors: Donald E. Knuth
+      conference: Addison-Wesley, 1968
 
-#     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#       link: "#"
-#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      link: "#"
+      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-#     - title: A syntax directed compiler for Algol 60
-#       link: "#"
-#       authors: Edgar T. Irons
-#       conference: "Comm. ACM 4 (1961), 51–55"
+    - title: A syntax directed compiler for Algol 60
+      link: "#"
+      authors: Edgar T. Irons
+      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Habilidades &amp; Proficiência
