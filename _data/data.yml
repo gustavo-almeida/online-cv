@@ -38,14 +38,17 @@ sidebar:
       - idiom: English
         level: Professional
 
-  # interests:
-  #   title: Interests
-  #   info:
-  #     - item: Coffee
-  #       link:
+  interests:
+    title: Certifications
+    info:
+      - item: AWS Certified Cloud Practitioner
+        link: https://www.credly.com/badges/03b09c74-bc25-45a0-aaf5-9af863a0c492/linked_in_profile
 
-  #     - item: Games
-  #       link:
+      - item: Secure Coding - Cybrary
+        link:
+
+      - item: Data Science Fundamentals Nanodegree - Udacity
+        link:
 
 career-profile:
   title: Career Profile
@@ -57,7 +60,7 @@ education:
   title: Education
   info:
     - degree: MBA in Business Analytics and Big Data
-      university: FGV
+      university: Fundação Getúlio Vargas
       time: 2018 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -68,7 +71,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Information Systems
-      university: UNESA
+      university: Universidade Estácio de Sá
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
