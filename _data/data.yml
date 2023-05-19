@@ -38,14 +38,14 @@ sidebar:
       - idiom: English
         level: Professional
 
-  interests:
-    title: Interests
-    info:
-      - item: Coffee
-        link:
+  # interests:
+  #   title: Interests
+  #   info:
+  #     - item: Coffee
+  #       link:
 
-      - item: Games
-        link:
+  #     - item: Games
+  #       link:
 
 career-profile:
   title: Career Profile
@@ -230,7 +230,7 @@ skills:
       level: 65%
 
     - name: BDD
-      level: 80%
+      level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
