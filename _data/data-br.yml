@@ -27,19 +27,19 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/en-cv_gustavo.pdf
+  pdf: https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/pt-cv_gustavo.pdf
 
   languages:
-    title: Languages
+    title: Idiomas
     info:
-      - idiom: Portuguese
-        level: Native
+      - idiom: Português
+        level: Nativo
 
-      - idiom: English
-        level: Professional
+      - idiom: Inglês
+        level: Profissional
 
   interests:
-    title: Certifications
+    title: Certificados
     info:
       - item: AWS Certified Cloud Practitioner
         link: https://www.credly.com/badges/03b09c74-bc25-45a0-aaf5-9af863a0c492/linked_in_profile
@@ -51,15 +51,15 @@ sidebar:
         link:
 
 career-profile:
-  title: Career Profile
+  title: Resumo
   summary: |
-    I'm an experienced professional with over 10 years of expertise in Software Testing and Quality Assurance. I hold a degree in Information Systems and an MBA in Big Data and Business Analytics.
+    Sou um profissional com mais de 10 anos de experiência em Teste de Software e Garantia de Qualidade. Sou formado em Sistemas de Informação e tenho um MBA em Big Data e Business Analytics.
 
-    Throughout my career, I've developed strong skills in planning, developing, and executing manual and automated tests across all layers of software using various programming languages and tools. Additionally, I have experience in conducting non-functional tests such as load tests.
+    Ao longo da minha carreira, desenvolvi fortes habilidades em planejamento, desenvolvimento e execução de testes manuais e automatizados em todas as camadas de software usando várias linguagens e ferramentas de programação. Além disso, tenho experiência na condução de testes não funcionais, como testes de carga.
 education:
-  title: Education
+  title: Formação
   info:
-    - degree: MBA in Business Analytics and Big Data
+    - degree: MBA em Business Analytics e Big Data
       university: Fundação Getúlio Vargas
       time: 2018 - 2020
       details: |
@@ -70,7 +70,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Information Systems
+    - degree: Bacharel em Sistemas de Informação
       university: Universidade Estácio de Sá
       time: 2007 - 2011
       details: |
@@ -82,53 +82,51 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-  title: Experiences
+  title: Experiência
   info:
     - role: QA Engineer
       time: Jun 2022 - Apr 2023
       company: CI&T
       details: |
-        I led the software test lifecycle strategy of a financial application in the fund of funds market for one of Brazil's largest banks. As a consultant, I provided expertise in testing practices and successfully developed an automated test framework. By collaborating closely with the UX team, we enhanced application flows, ensuring a seamless user experience.
-          - Refactored an entire end-to-end test project using Cypress and Javascript. Successfully automated test cases, resulting in improved efficiency and reduced time for regression testing.
-          - Maintained and improved an end-to-end test project with Selenium, .NET Core, and SpecFlow. Streamlined test scenarios and contributed to the continuous improvement of test coverage.
-          - Implemented tests in CI tools AWS CodeBuild and GitHub Actions, enabling seamless integration and automated testing in the development process.
-          - In addition, I authored BDD documentation to enhance collaboration and communication between development and testing teams.
-
+        Liderei a estratégia de ciclo de vida de teste de software de uma aplicação financeira no mercado de fundos de um dos maiores bancos do Brasil. Como consultor, forneci experiência em práticas de teste e desenvolvi com sucesso uma estrutura de teste automatizada. Ao colaborar estreitamente com a equipe de UX, aprimoramos os fluxos da aplicação, garantindo uma experiência de usuário perfeita.
+        - Refatorei todo um projeto de teste end-to-end usando Cypress e Javascript. Os testes foram automatizados com sucesso, resultando em maior eficiência e tempo reduzido nos testes de regressão.
+        - Fiz manutenção e melhoria de um projeto de teste end-to-end com Selenium, .NET Core e SpecFlow. Simplificando cenários de teste o que contribuiu para a melhoria contínua e cobertura de teste do projeto.
+        - Testes adicionados nas ferramentas de CI AWS CodeBuild e GitHub Actions, permitindo integração perfeita e testes automatizados no processo de desenvolvimento.
+        - Além disso, criei documentações no formato BDD para aprimorar a colaboração e a comunicação entre as equipes de desenvolvimento e teste.
     - role: Software Engineer in Test / QA Engineer
       time: Mar 2018 - Jun 2022
       company: VTEX
       details: |
-        By prioritizing testing needs and promoting a robust testing culture, I improved code quality, product functionality, and team efficiency. I mentored teammates on testing best practices and facilitated knowledge-sharing sessions, and also:
-        - Led load tests on an e-commerce platform, ensuring smooth operation during high-demand periods.
-        - Implemented testing culture and processes within the team, following agile methodology.
-        - Created test environments and defined comprehensive testing strategies.
-        - Developed automated testing scenarios for API and UI integrating into the CI/CD pipeline for fast regression testing.
-        - Wrote unit tests in .NET and integration tests using Postman/Newman.
-        - Conducted UI testing with Cypress and utilized AWS services.
+        Ao priorizar as necessidades de testes e promover uma cultura de testes robusta, melhorei a qualidade do código, a funcionalidade do produto e a eficiência da time. Orientei colegas de equipe sobre melhores práticas de testes e facilitei sessões de compartilhamento de conhecimento, e também:      
+        - Liderei os testes de carga em plataforma de e-commerce, garantindo bom funcionamento em períodos de alta demanda.
+        - Implementei cultura e processos de testes dentro da equipe, seguindo metodologia ágil.
+        - Criei ambientes de testes e defini estratégias de teste abrangentes.
+        - Desenvolvi cenários de teste automatizados para integração de API e UI no pipeline de CI/CD para testes de regressão rápidos.
+        - Escrevi testes de unidade em .NET e testes de integração usando Postman/Newman.
+        - Conduzi testes de UI com Cypress utilizando serviços da AWS.
 
     - role: Product Owner / QA Engineer
       time: Feb 2016 - Mar 2018
       company: deviceLab
       details: |
-        In this role, I successfully combined my managerial skills with technical expertise, contributing to efficient product management and the implementation of best practices in mobile software testing.
-        - Worked in both managerial and technical areas, focusing on product management, consulting, training, and best practices in mobile software testing.
-        - Served as a Product Owner, applying the agile SCRUM methodology.
-        - Automated mobile tests using Blink, Ruby/Cucumber, and Python/Behave, following BDD and ATDD principles.
-        - Created and executed Rest API and performance tests using Postman and JMeter.
-        - Proficient in mobile testing frameworks like Appium and Calabash.
+        Nesse período, combinei com sucesso minhas habilidades gerenciais com conhecimento técnico, contribuindo para o gerenciamento eficiente de produtos e a implementação das melhores práticas em teste de software com ênfase em mobile.
+        - Atuei nas áreas gerencial e técnica, com foco em gestão de produtos, consultoria, treinamento e melhores práticas em teste de software mobile.
+        - Atuei como Product Owner, aplicando a metodologia ágil SCRUM.
+        - Testes mobile automatizados usando Blink, Ruby/Cucumber e Python/Behave, seguindo os princípios BDD e ATDD.
+        - Criei e executei testes em API Rest e testes de carga usando Postman e JMeter.
+        - Proficiente em frameworks de testes mobile como Appium e Calabash.
 
-    - role: Test Analyst
+    - role: Analista de Testes
       time: Aug 2013 - Oct 2015
       company: VTEX
       details: |
-        Throughout this position, I successfully automated tests across diverse browsers, optimizing the efficiency and effectiveness of Acceptance and Regression testing. By utilizing C#, SpecFlow, Selenium, and various frameworks and techniques such as NUnit, SpecRun, Page Objects, and Parallel Tests, I contributed to delivering reliable and high-quality automated tests.
-        - Automated tests across multiple browsers, streamlining the process of Acceptance and Regression testing.
-        - Leveraged C# and SpecFlow for Behavior-Driven Development (BDD) implementation.
-        - Utilized Selenium for efficient browser interaction.
-        - Employed additional frameworks and techniques, including NUnit, SpecRun, Page Objects, and Parallel Tests.
-
+        Ao longo desta posição, automatizei com sucesso testes em diversos navegadores, otimizando a eficiência e a eficácia dos testes de aceitação e regressão. Utilizando C#, SpecFlow, Selenium e vários frameworks e técnicas como NUnit, SpecRun, Page Objects e Testes Paralelizados, contribuindo para fornecer testes automatizados confiáveis e de alta qualidade.
+        - Implementação de projeto de testes automatizados em vários navegadores web, simplificando o processo de testes de aceitação e regressão.
+        - Implementação de projeto em BDD usando C# e SpecFlow.
+        - Selenium utilizado para interação eficiente do navegador web.
+        - Utilizei com sucesso frameworks e outras técnicas, incluindo NUnit, SpecRun, Page Objects e Testes Paralelizados.
 # projects:
-#   title: Projects
+#   title: Projetos
 #   intro: >
 #     You can list your side projects in this
 #     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -174,7 +172,7 @@ experiences:
 #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # publications:
-#   title: Publications
+#   title: Publicações
 #   intro: |
 #     You can list your publications in this section. Lorem ipsum dolor sit
 #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -196,16 +194,16 @@ experiences:
 #       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Habilidades &amp; Proficiência
 
   toolset:
-    - name: Test Planning
+    - name: Planejamento de testes
       level: 98%
 
-    - name: Manual Testing
+    - name: Testes manuais
       level: 98%
 
-    - name: Test Automation
+    - name: Testes Automatizados
       level: 95%
 
     - name: Cucumber
@@ -214,10 +212,10 @@ skills:
     - name: Cypress
       level: 86%
 
-    - name: API Testing
+    - name: Teste de API
       level: 90%
 
-    - name: Regression Testing
+    - name: Teste de regressão
       level: 95%
 
     - name: Typescript
