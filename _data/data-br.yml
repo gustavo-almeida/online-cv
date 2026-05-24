@@ -27,7 +27,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/pt-cv_gustavo.pdf
+  pdf: # https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/pt-cv_gustavo.pdf
 
   languages:
     title: Idiomas
@@ -53,9 +53,11 @@ sidebar:
 career-profile:
   title: Resumo
   summary: |
-    Sou um profissional com mais de 10 anos de experiência em Teste de Software e Garantia de Qualidade. Sou formado em Sistemas de Informação e tenho um MBA em Big Data e Business Analytics.
+    Profissional com mais de 10 anos de experiência em Qualidade de Software, atuando com testes manuais, automatizados e não funcionais em diferentes tipos de aplicações, com forte foco em automação, qualidade contínua e engenharia de testes.
 
-    Ao longo da minha carreira, desenvolvi fortes habilidades em planejamento, desenvolvimento e execução de testes manuais e automatizados em todas as camadas de software usando várias linguagens e ferramentas de programação. Além disso, tenho experiência na condução de testes não funcionais, como testes de carga.
+    Experiência sólida em criação e evolução de frameworks de testes, testes de API, UI, mobile/responsivo e performance, utilizando ferramentas como Playwright, Cypress, k6, Apache JMeter e Postman.
+
+    Formado em Sistemas de Informação e com MBA em Big Data e Business Analytics.
 education:
   title: Formação
   info:
@@ -85,46 +87,53 @@ experiences:
   title: Experiência
   info:
     - role: QA Engineer
+      time: Jun 2023 - Presente
+      company: Loja Integrada
+      details: |
+        Atuação em um time de QA responsável por iniciativas internas de qualidade e, em paralelo, em um squad do projeto de marketplace da plataforma.
+        - Refatoração e consolidação de múltiplos projetos de health check automatizados em um único repositório utilizando Playwright e Typescript.
+        - Migração de robôs originalmente desenvolvidos em Cypress para Playwright, aumentando a estabilidade e reduzindo a complexidade de manutenção.
+        - Migração de testes de API do Postman para Playwright, unificando testes de UI e API em uma única stack.
+        - Desenvolvimento de testes automatizados com foco em experiência mobile e comportamento responsivo da plataforma.
+        - Refatoração completa dos testes de performance do JMeter para k6.
+        - Liderança das execuções de testes de carga e performance para preparação da plataforma durante períodos críticos, como Black Friday.
+
+    - role: QA Engineer
       time: Jun 2022 - Apr 2023
       company: CI&T
       details: |
-        Liderei a estratégia de ciclo de vida de teste de software de uma aplicação financeira no mercado de fundos de um dos maiores bancos do Brasil. Como consultor, forneci experiência em práticas de teste e desenvolvi com sucesso uma estrutura de teste automatizada. Ao colaborar estreitamente com a equipe de UX, aprimoramos os fluxos da aplicação, garantindo uma experiência de usuário perfeita.
-        - Refatorei todo um projeto de teste end-to-end usando Cypress e Javascript. Os testes foram automatizados com sucesso, resultando em maior eficiência e tempo reduzido nos testes de regressão.
-        - Fiz manutenção e melhoria de um projeto de teste end-to-end com Selenium, .NET Core e SpecFlow. Simplificando cenários de teste o que contribuiu para a melhoria contínua e cobertura de teste do projeto.
-        - Testes adicionados nas ferramentas de CI AWS CodeBuild e GitHub Actions, permitindo integração perfeita e testes automatizados no processo de desenvolvimento.
-        - Além disso, criei documentações no formato BDD para aprimorar a colaboração e a comunicação entre as equipes de desenvolvimento e teste.
+        - Liderança da estratégia de testes de uma aplicação financeira do mercado de fundos de um dos maiores bancos do Brasil.
+        - Refatoração de projeto end-to-end utilizando Cypress e Javascript.
+        - Manutenção e evolução de testes automatizados com Selenium, .NET Core e SpecFlow.
+        - Integração de testes automatizados em pipelines AWS CodeBuild e GitHub Actions.
+        - Criação de documentações em formato BDD e colaboração próxima com times de UX e desenvolvimento.
+
     - role: Software Engineer in Test / QA Engineer
       time: Mar 2018 - Jun 2022
       company: VTEX
       details: |
-        Ao priorizar as necessidades de testes e promover uma cultura de testes robusta, melhorei a qualidade do código, a funcionalidade do produto e a eficiência da time. Orientei colegas de equipe sobre melhores práticas de testes e facilitei sessões de compartilhamento de conhecimento, e também:      
-        - Liderei os testes de carga em plataforma de e-commerce, garantindo bom funcionamento em períodos de alta demanda.
-        - Implementei cultura e processos de testes dentro da equipe, seguindo metodologia ágil.
-        - Criei ambientes de testes e defini estratégias de teste abrangentes.
-        - Desenvolvi cenários de teste automatizados para integração de API e UI no pipeline de CI/CD para testes de regressão rápidos.
-        - Escrevi testes de unidade em .NET e testes de integração usando Postman/Newman.
-        - Conduzi testes de UI com Cypress utilizando serviços da AWS.
+        - Liderança de testes de carga em plataformas de e-commerce de alta escala.
+        - Implementação de cultura e processos de testes dentro de times ágeis.
+        - Desenvolvimento de testes automatizados de API e UI para pipelines CI/CD.
+        - Testes de integração utilizando Postman/Newman e automações UI com Cypress.
+        - Criação de ambientes e estratégias de testes.
 
     - role: Product Owner / QA Engineer
       time: Feb 2016 - Mar 2018
       company: deviceLab
       details: |
-        Nesse período, combinei com sucesso minhas habilidades gerenciais com conhecimento técnico, contribuindo para o gerenciamento eficiente de produtos e a implementação das melhores práticas em teste de software com ênfase em mobile.
-        - Atuei nas áreas gerencial e técnica, com foco em gestão de produtos, consultoria, treinamento e melhores práticas em teste de software mobile.
-        - Atuei como Product Owner, aplicando a metodologia ágil SCRUM.
-        - Testes mobile automatizados usando Blink, Ruby/Cucumber e Python/Behave, seguindo os princípios BDD e ATDD.
-        - Criei e executei testes em API Rest e testes de carga usando Postman e JMeter.
-        - Proficiente em frameworks de testes mobile como Appium e Calabash.
+        - Atuação técnica e gerencial com foco em testes mobile, consultoria e gestão de produtos.
+        - Experiência como Product Owner utilizando SCRUM.
+        - Automação de testes mobile com Ruby/Cucumber, Python/Behave, Appium e Calabash.
+        - Execução de testes de API e carga utilizando Postman e JMeter.
 
     - role: Analista de Testes
       time: Aug 2013 - Oct 2015
       company: VTEX
       details: |
-        Ao longo desta posição, automatizei com sucesso testes em diversos navegadores, otimizando a eficiência e a eficácia dos testes de aceitação e regressão. Utilizando C#, SpecFlow, Selenium e vários frameworks e técnicas como NUnit, SpecRun, Page Objects e Testes Paralelizados, contribuindo para fornecer testes automatizados confiáveis e de alta qualidade.
-        - Implementação de projeto de testes automatizados em vários navegadores web, simplificando o processo de testes de aceitação e regressão.
-        - Implementação de projeto em BDD usando C# e SpecFlow.
-        - Selenium utilizado para interação eficiente do navegador web.
-        - Utilizei com sucesso frameworks e outras técnicas, incluindo NUnit, SpecRun, Page Objects e Testes Paralelizados.
+        - Implementação de projeto de automação de testes cross-browser.
+        - Desenvolvimento de testes em BDD utilizando C#, SpecFlow e Selenium.
+        - Utilização de NUnit, SpecRun, Page Objects e execução paralela de testes.
 # projects:
 #   title: Projetos
 #   intro: >
@@ -197,14 +206,17 @@ skills:
   title: Habilidades &amp; Proficiência
 
   toolset:
-    - name: Planejamento de testes
+    - name: Test Planning
       level: 98%
 
-    - name: Testes manuais
+    - name: Manual Testing
       level: 98%
 
-    - name: Testes Automatizados
+    - name: Test Automation
       level: 95%
+
+    - name: Playwright
+      level: 90%
 
     - name: Cucumber
       level: 85%
@@ -212,10 +224,13 @@ skills:
     - name: Cypress
       level: 86%
 
-    - name: Teste de API
+    - name: API Testing
       level: 90%
 
-    - name: Teste de regressão
+    - name: Performance Testing
+      level: 80%
+
+    - name: Regression Testing
       level: 95%
 
     - name: Typescript
@@ -226,9 +241,6 @@ skills:
 
     - name: SQL
       level: 65%
-
-    - name: BDD
-      level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
