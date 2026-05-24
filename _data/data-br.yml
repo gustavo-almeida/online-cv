@@ -27,7 +27,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/pt-cv_gustavo.pdf
+  pdf: # https://s3.amazonaws.com/www.almeidagustavo.com.br/resumes/pt-cv_gustavo.pdf
 
   languages:
     title: Idiomas
@@ -197,14 +197,17 @@ skills:
   title: Habilidades &amp; Proficiência
 
   toolset:
-    - name: Planejamento de testes
+    - name: Test Planning
       level: 98%
 
-    - name: Testes manuais
+    - name: Manual Testing
       level: 98%
 
-    - name: Testes Automatizados
+    - name: Test Automation
       level: 95%
+
+    - name: Playwright
+      level: 90%
 
     - name: Cucumber
       level: 85%
@@ -212,10 +215,13 @@ skills:
     - name: Cypress
       level: 86%
 
-    - name: Teste de API
+    - name: API Testing
       level: 90%
 
-    - name: Teste de regressão
+    - name: Performance Testing
+      level: 80%
+
+    - name: Regression Testing
       level: 95%
 
     - name: Typescript
@@ -226,9 +232,6 @@ skills:
 
     - name: SQL
       level: 65%
-
-    - name: BDD
-      level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
