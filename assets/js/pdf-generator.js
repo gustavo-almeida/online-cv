@@ -1,30 +1,35 @@
+function isBrazilianVersion() {
+  return window.location.pathname.includes("-br");
+}
+
+function getPrintPath() {
+  return isBrazilianVersion() ? "/print-br" : "/print";
+}
+
 function print() {
-  const printWindow = window.open("/print", "_blank");
+  const printWindow = window.open(getPrintPath(), "_blank");
+
   printWindow.onload = function () {
     printWindow.print();
-    // Close the print window after a delay
+
     setTimeout(() => printWindow.close(), 500);
   };
 }
 
 function generatePDF() {
-  // Get the print layout URL
-  const printURL = new URL("print", window.location.href).href;
+  const printURL = new URL(getPrintPath(), window.location.origin).href;
 
-  // Fetch the print layout content
   fetch(printURL)
     .then((response) => response.text())
     .then((html) => {
-      // Create a temporary container
       const container = document.createElement("div");
       container.innerHTML = html;
 
-      // Get name from the DOM (as defined in data.yml)
       const name = document.querySelector(".name").textContent;
-      // Format filename: replace spaces with underscores and append _resume.pdf
-      const filename = `${name.replace(/\s+/g, "_")}_Resume.pdf`;
 
-      // Configure pdf options
+      const suffix = isBrazilianVersion() ? "CV" : "Resume";
+      const filename = `${name.replace(/\s+/g, "_")}_${suffix}.pdf`;
+
       const opt = {
         margin: 10,
         filename: filename,
@@ -41,7 +46,6 @@ function generatePDF() {
         },
       };
 
-      // Generate PDF
       html2pdf()
         .set(opt)
         .from(container)
