@@ -90,13 +90,10 @@ experiences:
       time: Jun 2023 - Presente
       company: Loja Integrada
       details: |
-        Atuação em um time de QA responsável por iniciativas internas de qualidade e, em paralelo, em um squad do projeto de marketplace da plataforma.
-        - Refatoração e consolidação de múltiplos projetos de health check automatizados em um único repositório utilizando Playwright e Typescript.
-        - Migração de robôs originalmente desenvolvidos em Cypress para Playwright, aumentando a estabilidade e reduzindo a complexidade de manutenção.
-        - Migração de testes de API do Postman para Playwright, unificando testes de UI e API em uma única stack.
-        - Desenvolvimento de testes automatizados com foco em experiência mobile e comportamento responsivo da plataforma.
-        - Refatoração completa dos testes de performance do JMeter para k6.
-        - Liderança das execuções de testes de carga e performance para preparação da plataforma durante períodos críticos, como Black Friday.
+        Atuação estratégica em iniciativas globais de qualidade e engenharia de testes, integrando também o squad focado no ecossistema de marketplace da plataforma.
+        - Eficiência de Pipeline: Refatoração e consolidação de múltiplos projetos isolados de health check em um repositório unificado utilizando Playwright e TypeScript, otimizando o tempo de manutenção.
+        - Modernização da Stack: Migração completa da suite de testes de UI (Cypress) e testes de API (Postman) para Playwright, unificando a stack técnica e aumentando a estabilidade das execuções em CI/CD.
+        - Performance em Alta Escala: Liderança do planejamento e execução de testes de carga e estresse utilizando k6 (migrados do JMeter), garantindo a resiliência e estabilidade da plataforma em eventos críticos de alta volumetria, como a Black Friday.
 
     - role: QA Engineer
       time: Jun 2022 - Apr 2023
@@ -108,7 +105,7 @@ experiences:
         - Integração de testes automatizados em pipelines AWS CodeBuild e GitHub Actions.
         - Criação de documentações em formato BDD e colaboração próxima com times de UX e desenvolvimento.
 
-    - role: Software Engineer in Test / QA Engineer
+    - role: QA Engineer
       time: Mar 2018 - Jun 2022
       company: VTEX
       details: |
@@ -118,7 +115,7 @@ experiences:
         - Testes de integração utilizando Postman/Newman e automações UI com Cypress.
         - Criação de ambientes e estratégias de testes.
 
-    - role: Product Owner / QA Engineer
+    - role: QA Engineer
       time: Feb 2016 - Mar 2018
       company: deviceLab
       details: |
